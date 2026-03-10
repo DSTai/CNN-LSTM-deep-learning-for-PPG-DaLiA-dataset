@@ -1,0 +1,240 @@
+Classification report for 1 epochs:
+              precision    recall  f1-score   support
+
+           0       0.52      0.95      0.67        61
+           1       0.67      0.22      0.33        46
+           2       0.75      0.66      0.70        32
+           3       0.84      0.96      0.90        50
+           4       0.69      0.74      0.71        95
+           5       0.61      0.69      0.65       173
+           6       0.51      0.81      0.62        62
+           7       0.71      0.18      0.29       120
+
+    accuracy                           0.62       639
+   macro avg       0.66      0.65      0.61       639
+weighted avg       0.65      0.62      0.59       639
+
+Classification report for 2 epochs:
+              precision    recall  f1-score   support
+
+           0       0.55      0.98      0.71        61
+           1       0.45      1.00      0.62        46
+           2       0.88      0.66      0.75        32
+           3       0.84      0.96      0.90        50
+           4       0.62      0.49      0.55        95
+           5       0.54      0.71      0.61       173
+           6       0.84      0.26      0.40        62
+           7       0.70      0.13      0.22       120
+
+    accuracy                           0.59       639
+   macro avg       0.68      0.65      0.59       639
+weighted avg       0.64      0.59      0.55       639
+
+Classification report for 3 epochs:
+              precision    recall  f1-score   support
+
+           0       0.58      0.98      0.73        61
+           1       0.39      0.91      0.55        46
+           2       0.82      0.84      0.83        32
+           3       0.98      0.94      0.96        50
+           4       0.67      0.40      0.50        95
+           5       0.52      0.77      0.62       173
+           6       0.43      0.05      0.09        62
+           7       0.64      0.13      0.22       120
+
+    accuracy                           0.57       639
+   macro avg       0.63      0.63      0.56       639
+weighted avg       0.60      0.57      0.52       639
+
+Classification report for 4 epochs:
+              precision    recall  f1-score   support
+
+           0       0.15      0.07      0.09        61
+           1       0.41      0.72      0.52        46
+           2       0.76      0.69      0.72        32
+           3       0.89      0.94      0.91        50
+           4       0.66      0.45      0.54        95
+           5       0.54      0.80      0.64       173
+           6       0.89      0.26      0.40        62
+           7       0.36      0.33      0.35       120
+
+    accuracy                           0.54       639
+   macro avg       0.58      0.53      0.52       639
+weighted avg       0.55      0.54      0.51       639
+
+Classification report for 5 epochs:
+              precision    recall  f1-score   support
+
+           0       0.04      0.02      0.02        61
+           1       0.44      0.98      0.60        46
+           2       0.78      0.66      0.71        32
+           3       0.86      1.00      0.93        50
+           4       0.55      0.51      0.53        95
+           5       0.54      0.69      0.61       173
+           6       0.80      0.13      0.22        62
+           7       0.32      0.29      0.31       120
+
+    accuracy                           0.51       639
+   macro avg       0.54      0.53      0.49       639
+weighted avg       0.51      0.51      0.48       639
+
+Classification report for 6 epochs:
+              precision    recall  f1-score   support
+
+           0       0.04      0.02      0.02        61
+           1       0.43      0.98      0.60        46
+           2       0.77      0.72      0.74        32
+           3       0.84      0.96      0.90        50
+           4       0.56      0.58      0.57        95
+           5       0.57      0.65      0.61       173
+           6       0.78      0.11      0.20        62
+           7       0.37      0.36      0.36       120
+
+    accuracy                           0.52       639
+   macro avg       0.54      0.55      0.50       639
+weighted avg       0.52      0.52      0.49       639
+
+Classification report for 7 epochs:
+              precision    recall  f1-score   support
+
+           0       0.03      0.02      0.02        61
+           1       0.43      0.93      0.59        46
+           2       0.83      0.75      0.79        32
+           3       0.91      0.98      0.94        50
+           4       0.72      0.60      0.66        95
+           5       0.61      0.76      0.68       173
+           6       0.67      0.10      0.17        62
+           7       0.38      0.38      0.38       120
+
+    accuracy                           0.56       639
+   macro avg       0.57      0.56      0.53       639
+weighted avg       0.55      0.56      0.52       639
+
+Classification report for 8 epochs:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        61
+           1       0.41      0.85      0.55        46
+           2       0.90      0.81      0.85        32
+           3       0.91      1.00      0.95        50
+           4       0.60      0.59      0.60        95
+           5       0.58      0.69      0.63       173
+           6       0.56      0.08      0.14        62
+           7       0.38      0.41      0.39       120
+
+    accuracy                           0.54       639
+   macro avg       0.54      0.55      0.51       639
+weighted avg       0.52      0.54      0.50       639
+
+Classification report for 9 epochs:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        61
+           1       0.38      0.72      0.49        46
+           2       0.81      0.78      0.79        32
+           3       0.93      1.00      0.96        50
+           4       0.68      0.57      0.62        95
+           5       0.55      0.73      0.63       173
+           6       0.83      0.08      0.15        62
+           7       0.32      0.35      0.34       120
+
+    accuracy                           0.52       639
+   macro avg       0.56      0.53      0.50       639
+weighted avg       0.53      0.52      0.49       639
+
+Classification report for 10 epochs:
+              precision    recall  f1-score   support
+
+           0       0.04      0.02      0.02        61
+           1       0.40      0.83      0.54        46
+           2       0.80      0.75      0.77        32
+           3       0.98      0.98      0.98        50
+           4       0.59      0.58      0.58        95
+           5       0.58      0.71      0.64       173
+           6       0.57      0.06      0.12        62
+           7       0.39      0.42      0.40       120
+
+    accuracy                           0.54       639
+   macro avg       0.54      0.54      0.51       639
+weighted avg       0.52      0.54      0.50       639
+
+Classification report for 11 epochs:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        61
+           1       0.39      0.80      0.52        46
+           2       0.79      0.69      0.73        32
+           3       0.91      0.98      0.94        50
+           4       0.59      0.55      0.57        95
+           5       0.54      0.71      0.61       173
+           6       1.00      0.06      0.12        62
+           7       0.29      0.29      0.29       120
+
+    accuracy                           0.50       639
+   macro avg       0.56      0.51      0.47       639
+weighted avg       0.53      0.50      0.47       639
+
+Classification report for 12 epochs:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        61
+           1       0.37      0.74      0.49        46
+           2       0.81      0.69      0.75        32
+           3       0.92      0.94      0.93        50
+           4       0.58      0.58      0.58        95
+           5       0.57      0.69      0.63       173
+           6       0.83      0.08      0.15        62
+           7       0.33      0.38      0.35       120
+
+    accuracy                           0.51       639
+   macro avg       0.55      0.51      0.48       639
+weighted avg       0.52      0.51      0.48       639
+
+Classification report for 13 epochs:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        61
+           1       0.36      0.72      0.48        46
+           2       0.70      0.81      0.75        32
+           3       0.94      0.96      0.95        50
+           4       0.56      0.61      0.59        95
+           5       0.56      0.62      0.59       173
+           6       1.00      0.10      0.18        62
+           7       0.32      0.35      0.33       120
+
+    accuracy                           0.50       639
+   macro avg       0.56      0.52      0.48       639
+weighted avg       0.53      0.50      0.47       639
+
+Classification report for 14 epochs:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        61
+           1       0.45      0.98      0.62        46
+           2       0.76      0.69      0.72        32
+           3       0.93      1.00      0.96        50
+           4       0.60      0.58      0.59        95
+           5       0.59      0.70      0.64       173
+           6       0.92      0.18      0.30        62
+           7       0.40      0.42      0.41       120
+
+    accuracy                           0.55       639
+   macro avg       0.58      0.57      0.53       639
+weighted avg       0.56      0.55      0.52       639
+
+Classification report for 15 epochs:
+              precision    recall  f1-score   support
+
+           0       0.04      0.02      0.02        61
+           1       0.43      0.91      0.59        46
+           2       0.79      0.69      0.73        32
+           3       0.96      0.98      0.97        50
+           4       0.59      0.56      0.57        95
+           5       0.56      0.69      0.62       173
+           6       0.82      0.15      0.25        62
+           7       0.37      0.38      0.38       120
+
+    accuracy                           0.53       639
+   macro avg       0.57      0.55      0.52       639
+weighted avg       0.54      0.53      0.50       639
+
